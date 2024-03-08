@@ -1,6 +1,6 @@
 # QL-Explore-Ecommerce-Dataset
 
-This repository contains eight sample SQL queries for analyzing the Google Analytics dataset in BigQuery. These queries are designed to demonstrate common data analysis tasks and provide insights into ecommerce data.
+This repository contains a sample SQL queries for analyzing the Google Analytics dataset in BigQuery. These queries are designed to demonstrate common data analysis tasks and provide insights into ecommerce data.
 
 ## Introduction
 
@@ -8,7 +8,7 @@ This project utilizes SQL queries in Google BigQuery to collect, organize, and c
 
 ## Queries
 
-The repository includes eight SQL queries, each targeting specific aspects of ecommerce analysis. These queries cover a range of tasks such as calculating revenue, analyzing customer behavior, and identifying trends. By examining these sample queries, users can gain a better understanding of how to leverage SQL for ecommerce data analysis in BigQuery.
+The repository includes SQL queries, each targeting specific aspects of ecommerce analysis.
 
 ## Usage
 
